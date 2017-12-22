@@ -1,0 +1,5 @@
+export const SHOW_HEADER='SHOW_HEADER';
+export const HIDE_HEADER='HIDE_HEADER';
+
+export const LOADING_SHOW='LOADING_SHOW';
+export const LOADING_HIDE='LOADING_HIDE';
